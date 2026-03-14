@@ -1,6 +1,6 @@
 # Numerical Integration Algorithms
 
-This is a project for the **Algorithms and Data Structures** (Algorytmy i Struktury Danych) course. It contains my C++ implementation of numerical integration algorithms, along with Python scripts to analyze and visualize the errors and performance.
+This is a project for the **Algorithms and Data Structures** (Algorytmy i Struktury Danych) university course. It contains my C++ implementation of numerical integration algorithms, along with Python scripts to analyze and visualize the errors and performance.
 
 ## Algorithms
 1. Rectangular Method (Left, Right, Midpoint)
